@@ -1,4 +1,4 @@
-# Backcast
+# Backcast: YouTube with Backbone
 YouTube Video Player app using BackboneJS.
 
 # Backbone is Interesting in a Few Key Ways
